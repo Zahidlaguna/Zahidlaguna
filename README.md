@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning LLM's for research and Computer Vision<br>🎯 Goals: To become a data scientist for the NBA <br>🎲 Fun fact: Playing basketball is what made me pursue data science and machine learning. I'm also a huge Dragon Ball fan</p>
+<p align="center">✨ Creating bugs since 2022<br>📚 I'm currently learning LLM's for social science research <br>🎯 Goals: To become a data scientist for the NBA <br>🎲 Fun fact: Playing basketball is what made me pursue data science and machine learning. I'm also a huge Dragon Ball fan</p>
 
 ###
 
