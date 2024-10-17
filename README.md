@@ -1,4 +1,4 @@
-**<div align="center">
+<div align="center">
   <img height="200" src="https://media1.tenor.com/m/QKeWrtK2tp0AAAAC/anime-goku.gif"  />
 </div>
 
