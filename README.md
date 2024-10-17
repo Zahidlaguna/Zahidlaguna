@@ -3,6 +3,16 @@
 </div>
 
 ###
+<div align="center">
+  <a href="https://www.linkedin.com/in/zahid-laguna-b90630333" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:Zahid728@yahoo.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Yahoo&logo=gmail&label=&color=800080&logoColor=800080&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 
 <h1 align="center">Howdy 🤙🏿</h1>
 
@@ -66,6 +76,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Zahidlaguna/Zahidlaguna/output/snake.svg" alt="Snake animation" />
-
-###
